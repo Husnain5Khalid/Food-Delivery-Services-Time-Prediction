@@ -18,3 +18,9 @@ Time of order
 Festival/peak hours
 
 
+🎯 Objectives
+Predict food delivery time accurately
+Analyze factors affecting delivery delays
+Compare multiple ML algorithms
+Build a scalable prediction pipeline
+
