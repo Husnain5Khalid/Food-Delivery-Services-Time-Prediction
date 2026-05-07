@@ -34,3 +34,32 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
+
+📈 Machine Learning Workflow
+Data Collection
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Model Training
+Model Evaluation
+Prediction & Deployment
+
+
+🤖 Models Used
+Linear Regression
+Random Forest Regressor
+Decision Tree Regressor
+XGBoost Regressor
+
+
+📉 Evaluation Metrics
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squed Error (RMSE)
+R² Score
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
