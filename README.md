@@ -24,3 +24,13 @@ Analyze factors affecting delivery delays
 Compare multiple ML algorithms
 Build a scalable prediction pipeline
 
+
+🛠️ Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+Jupyter Notebook
+
